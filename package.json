@@ -1,0 +1,23 @@
+{
+  "name": "apitesting",
+  "version": "1.0.0",
+  "description": "> npm init",
+  "main": "test_spec.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PramodDutta/apitesting.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PramodDutta/apitesting/issues"
+  },
+  "homepage": "https://github.com/PramodDutta/apitesting#readme",
+  "devDependencies": {
+    "frisby": "^2.0.16",
+    "jest": "^22.4.4"
+  }
+}

@@ -15,4 +15,3 @@ it('Verify a Random User',function () {
         });
 });
 
-/Users/wingify/WebstormProjects/firsbyjs/__tests__/api
